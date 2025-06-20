@@ -8,7 +8,7 @@ Software engineer who believes good code reads like a good story - clear, purpos
 
 ## 💼 Professional Portfolio
 Find out more: 
-**[View My Portfolio](https://meenakshi.me/)** - https://meenakshi.me/
+**[View My Portfolio](https://meenakshi.me/)** - meenakshi.me/
 
 ## 🛠️ Tech Toolbox
 
