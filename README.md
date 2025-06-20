@@ -1,20 +1,75 @@
+# 👋 Hi, I'm Meenakshi!
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/meenakshi-sundar) 
+## About Me
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=flat&logo=socket.io&badgeColor=010101) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=flat&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![GIT](https://img.shields.io/badge/Git-fc6d26?style=flat&logo=git&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white)
+Software engineer who believes good code reads like a good story - clear, purposeful, and without unnecessary plot twists. I enjoy solving complex problems through elegant solutions. Outside of work, I find inspiration in quiet moments with nature, occasional sketches, and music that moves me. Still learning, always curious.
+- 💼 **Software Engineer** at Microsoft 
+- 🌟 **Software Engineering Intern** at Microsoft (Summer 2024)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+## 💼 Professional Portfolio
+Find out more: 
+**[View My Portfolio](https://meenakshi.me/)** - https://meenakshi.me/
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=meenakshi1108&limit=5&theme=dark&combine_all_yearly_contributions=true)
+## 🛠️ Tech Toolbox
 
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+### 🧑‍💻 Languages  
+<img src="https://skillicons.dev/icons?i=py,cpp,c,java,js,ts,dart,cs,scala,haskell,bash,regex,solidity" alt="Programming Languages" />
 
 ---
-[![](https://visitcount.itsvg.in/api?id=meenakshi1108&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### ⚙️ Frameworks & Libraries  
+<img src="https://skillicons.dev/icons?i=react,next,nodejs,express,django,flask,tensorflow,pytorch,sklearn,opencv" alt="Frameworks and Libraries" />
+
+---
+
+### 🎨 Frontend & UI  
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,materialui,figma" alt="Frontend and UI Tools" />
+
+---
+
+### 🧪 Tools & Environment  
+<img src="https://skillicons.dev/icons?i=linux,windows,vscode,visualstudio,postman" alt="Tools and Environments" />
+
+---
+
+### 🗄️ Databases  
+<img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,mongodb" alt="Databases" />
+
+---
+
+### ☁️ Cloud & DevOps  
+<img src="https://skillicons.dev/icons?i=git,github,docker,azure,aws" alt="Cloud and DevOps" />
+
+
+---
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula)
+
+## 🌐 Let's Connect!
+
+<div align="left">
+  <a href="https://linkedin.com/in/meenakshi-sundar">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
+  </a>
+  <a href="https://x.com/Meenaks91521592">
+    <img src="https://skillicons.dev/icons?i=twitter" alt="Twitter" />
+  </a>
+  <a href="https://discord.com/users/897831220082274344">
+    <img src="https://skillicons.dev/icons?i=discord" alt="Discord" />
+  </a>
+  <a href="mailto:meenakshisundar1108@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" />
+  </a>
+</div>
+
+<br>
+
+---
+
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=meenakshi1108&style=flat-square&color=blueviolet" alt="Profile views"/>
+  <br>
+  <em>"The only code that doesn't need debugging is the code you didn't write!"</em>
+</div>
